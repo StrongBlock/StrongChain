@@ -194,7 +194,7 @@ StrongChain will be a community-owned chain. The majority of STRONGER tokens hav
 
 ### <a name="strongermod">STRONGER Tokenomics - Initial Proposed Model (chart)</a>
 
-![](https://static.strongblock.io/lp/g-lighpaper-feb-2022-allocation.png)
+![](https://static.strongblock.io/lp/gg-lighpaper-feb-2022-allocation.png)
 
 ### <a name="distrophase">Phases for Distribution and Transition</a>
 
