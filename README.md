@@ -102,7 +102,7 @@ Our conclusion is that the ETH 2.0 pool, while helpful, is a viable but less sig
 
 #### <a name="tapering">Tapering</a>
 
-Another experiment, released in the Service 2 Smart Contract, introduced a flexible, tapered rewards model that allows for different implementations for each protocol. Currently, the tapering model has only been deployed for Polygon nodes, as per the graph below.
+Another experiment, released in the Service 2 Smart Contract, introduced a flexible, tapered rewards model that allows for different implementations for each protocol. Currently, the tapering model has only been deployed for Polygon nodes.
 
 In the Polygon tapered model, rewards are initially higher than current ETH 1.0 node rewards. They then gradually taper to reach the ETH 1.0 rewards rate, intersecting at breakeven. After breakeven, the tapering model converts to a steady, sustainable stream of passive income that tapers gradually over several years, to a maximum number of tokens.
 
