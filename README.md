@@ -240,7 +240,7 @@ The evolution of the StrongBlock NaaS protocol to StrongChain will take place in
 
 # <a name="2022map">StrongBlock 2022 Roadmap (graph)</a>
 
-![](https://static.strongblock.io/lp/n-2022-roadmap-timeline.png)
+![](https://static.strongblock.io/lp/nn-2022-roadmap-timeline.png)
 
 # <a name="futurestrong">The future of STRONG</a>
 
