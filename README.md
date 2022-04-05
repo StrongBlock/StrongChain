@@ -192,9 +192,9 @@ StrongChain will be a community-owned chain. The majority of STRONGER tokens hav
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mint possible:** Yes, in contract<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Burn possible:** Yes, in contract<br>
 
-### <a name="strongermod">STRONGER Tokenomics - Initial Proposed Model (chart)</a>
+### <a name="strongermod">STRONGER Tokenomics - Proposed Model (chart)</a>
 
-![](https://static.strongblock.io/lp/gg-lighpaper-feb-2022-allocation.png)
+![](https://static.strongblock.io/lp/oo-stronger-token-allocation-2022.png)
 
 ### <a name="distrophase">Phases for Distribution and Transition</a>
 
@@ -213,10 +213,7 @@ The evolution of the StrongBlock NaaS protocol to StrongChain will take place in
 &nbsp;&nbsp;&nbsp;&nbsp;Issue a new mint/burn token - STRONGER<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Transition the NaaS DApp and the StrongBlock community to STRONGER<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Having STRONG will make you STRONGER<br>
-&nbsp;&nbsp;&nbsp;&nbsp;All current STRONG holders will be awarded STRONGER<br>
-- Nodes will have the highest STRONGER award percentage
-- Pool holders will receive the next highest STRONGER award percentage
-- Anyone holding STRONG in a wallet will receive a STRONGER  award
+&nbsp;&nbsp;&nbsp;&nbsp;All current STRONG holders in the protocol will be upgraded to STRONGER<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Metal NFT’s <br>
 - All Metal NFTs will retain their boost value
